@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author : 测试小牛
 # @Time : 07/09/2023 22:24
+# 自动化请求文件
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
